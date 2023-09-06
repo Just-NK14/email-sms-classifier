@@ -1,3 +1,4 @@
 sklearn==0.0.post7
 streamlit
+pickle
 nltk==3.8.1
